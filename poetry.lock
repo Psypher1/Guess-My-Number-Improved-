@@ -1,0 +1,14 @@
+[[package]]
+category = "main"
+description = "Cross-platform colored terminal text."
+name = "colorama"
+optional = false
+python-versions = ">=2.7, !=3.0.*, !=3.1.*, !=3.2.*, !=3.3.*"
+version = "0.4.1"
+
+[metadata]
+content-hash = "eb188ee0ebdb64e6a5785e67c51d0da126985a4126af2f789b53fb0971eeec0f"
+python-versions = "^3.7"
+
+[metadata.hashes]
+colorama = ["05eed71e2e327246ad6b38c540c4a3117230b19679b875190486ddd2d721422d", "f8ac84de7840f5b9c4e3347b3c1eaa50f7e49c2b07596221daec5edaabbd7c48"]
